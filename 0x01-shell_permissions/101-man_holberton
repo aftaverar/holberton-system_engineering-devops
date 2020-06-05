@@ -6,7 +6,7 @@
 .SH SYNOPSIS
 holberton [STUDENTNAME]
 .SH DESCRIPTION
-Holberton is a project-based alternative to college for the next generation of software engineers.
+Holberton School is a project-based alternative to college for the next generation of software engineers.
 .SH OPTIONS
 holberton does not take any options. However, you can supply studentname.
 .SH SEE ALSO
