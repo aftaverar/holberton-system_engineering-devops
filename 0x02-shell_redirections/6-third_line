@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -3n iacta
+head -3 iacta|tail -1
