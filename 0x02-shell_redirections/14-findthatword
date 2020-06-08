@@ -1,2 +1,2 @@
 #!/bin/bash
-iacta
+grep root /etc/passwd
